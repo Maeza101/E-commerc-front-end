@@ -9,7 +9,7 @@ export default function Header() {
                     <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
                         <a href="https://flowbite.com" className="flex items-center">
                             <img src="./cartlogo.png" className="mr-3 h-6 sm:h-9" alt="Cart Logo" />
-                            <span className="self-center text-xl font-semibold whitespace-nowrap">Maeza's Foods Cart</span>
+                            <span className="self-center text-xl font-semibold whitespace-nowrap">Cart</span>
                         </a>
                         <div className="flex items-center lg:order-2">
                             <a href="#" className="text-gray-800 hover:bg-gray-50 focus:ring-4
